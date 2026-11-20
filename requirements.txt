@@ -1,0 +1,9 @@
+torch>=2.4
+numpy
+tokenizers
+huggingface_hub
+transformers
+matplotlib
+pillow
+gradio
+jupyter
